@@ -1,11 +1,10 @@
 
 <img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
-# Deploy de uma aplicação Node.js usando AWS Elastic Beanstalk
+# Enviando dados para o Google BigQuery, usando Firebase Cloud Functions com Node.js
 
-Ver nossa aplicação em Node.js rodar local é ótimo, mas melhor ainda, quando podemos ver ela funcionando em ambiente de servidor, onde realmente os verdadeiros erros começam a aparecer.
-
-Nesta aula, iremos criar um pipeline de desenvolvimento, onde veremos CI/CD(Continuous Integration/Delivery) na prática, juntamente com outros serviços da AWS, que irão nos auxiliar nesse processo.
+Nessa aula, irei falar sobre o Google BigQuery, banco de dados serverless do Google e 
+mostrar como armazenar dados nele, usando Node.js através do Firebase Cloud Functions
 
 ## Expert
 
@@ -13,4 +12,4 @@ Nesta aula, iremos criar um pipeline de desenvolvimento, onde veremos CI/CD(Cont
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                             [Ismael Ash](https://github.com/ismaelash)                                                             |
 
-TAGS: CI/CD, AWS, Nodejs, AWS Codepipeline, AWS Elastic Beanstalk
+TAGS: BigQuery, GCP, Google, Node.js, Cloud Functions, Firebase, Google Cloud
